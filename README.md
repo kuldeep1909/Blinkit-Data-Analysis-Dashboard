@@ -1,8 +1,6 @@
 # Blinkit-Data-Analysis-Dashboard
 I utilized the Blinkit application data to uncover insights and trends through comprehensive visualizations. Leveraging Power BI, I performed an in-depth analysis of the dataset, which has provided me with valuable experience in data manipulation, visualization, and deriving actionable insights.
 
-# Blinkit Data Analysis Project
-
 Welcome to the Blinkit Data Analysis Project repository! This project leverages the Blinkit application data to perform an in-depth analysis using Power BI. The insights derived from this analysis are aimed at understanding customer preferences, sales trends, and other key performance metrics.
 
 ## Project Overview
